@@ -38,7 +38,7 @@ html {
   background-color: #dcf98a;
   text-align: center;
   margin: 0 auto;
-  overflow: scroll; }
+  overflow: hidden; }
 
 .content {
   position: relative;
