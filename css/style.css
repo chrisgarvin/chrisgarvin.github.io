@@ -15,5 +15,10 @@ span {
   font-size: 42px;
 }
 
+a:visited, a {
+  font-weight: bolder;
+  color: black;
+}
+
 
 /*# sourceMappingURL=style.css.map */
